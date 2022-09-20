@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.jumbotail.app.debug",
-    "sha256_cert_fingerprints":
-    ["24:10:C4:3F:EC:4C:FA:D5:54:F7:98:BF:03:89:2E:13:74:22:1C:E8:6E:AB:42:CF:C2:D8:61:6E:F7:35:CA:DC"]
-  }
-}]
